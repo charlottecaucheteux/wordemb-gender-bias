@@ -1,7 +1,7 @@
 # wordemb-gender-bias
 Use word embeddings to measure gender stereotypes in different countries / languages. 
 
-We leverage this code: https://wefe.readthedocs.io/en/latest/user_guide/measurement_user_guide.html to score gender biais in fasttext word embedding from different languages. We use wefe (biais evaluation), gensim (handles word vectors) and fasttext pre-trained models. 
+We leverage this code: https://wefe.readthedocs.io/en/latest/user_guide/measurement_user_guide.html to score gender biais in fasttext word embedding from different languages. We use `WEFE` (biais evaluation), `gensim` (handles word vectors) and `fasttext` pre-trained models. 
 
 ## Download the English model 
 
