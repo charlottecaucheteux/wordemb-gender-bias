@@ -1,0 +1,7 @@
+pandas
+fasttext
+translate
+gensim
+tqdm
+wefe
+
