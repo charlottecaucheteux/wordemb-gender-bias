@@ -12,7 +12,7 @@ Copy paste the notebook `score_bias_in_word_vectors.ipynb`
 ## Build environment
 
 ```
-conda create --name="wordemb_gender_bias"
+conda create --name="wordemb_gender_bias" python=3.7
 conda activate wordemb_gender_bias
 ```
 
